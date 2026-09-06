@@ -4,7 +4,7 @@ My output from Godot engine [Your first 2D game](https://docs.godotengine.org/en
 
 # Usage
 
-- Requires [godot](https://godotengine.org/download)
+- Requires [godot](https://godotengine.org/download), [git](https://git-scm.com/install/) and [git-lfs](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage).
 
 ```
 git clone https://github.com/andrealbinop/godot-dodge-the-creeps.git
@@ -12,4 +12,6 @@ cd godot-dodge-the-creeps
 godot .
 ```
 
-![Main Menu Screenshot](./art/screenshot.png)
+- Click **Start**, use **WASD** or arrow keys to move the player, goal is to dodge the creeps.
+
+![Main Menu Screenshot](./art/screenshot.png)``
